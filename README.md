@@ -8,11 +8,14 @@
 
 **Live Demo:** [agra.his4irness-n8n.tech](https://agra.his4irness-n8n.tech)
 
+![Dashboard Overview](docs/screenshots/dashboard-weather.png)
+
 ---
 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
@@ -35,6 +38,14 @@ Built as a team project during the CloudHelden bootcamp -- my first web developm
 - Monitors 7 crop types with optimized growing conditions
 - Color-coded status indicators: optimal, acceptable, problematic, harvest-ready
 - Interactive charts showing temperature and humidity trends per crop
+
+---
+
+## Screenshots
+
+| Weather Overview | Crop Monitoring |
+|-----------------|-----------------|
+| ![Weather](docs/screenshots/dashboard-weather.png) | ![Crops](docs/screenshots/dashboard-crops.png) |
 
 ---
 
